@@ -44,6 +44,7 @@ namespace RestaurantRater.Models
             }
         }
 
+        //Come back and do this for repetition/learning sake Leilah
         // Average Food Rating
 
         // Average Cleanliness Rating
